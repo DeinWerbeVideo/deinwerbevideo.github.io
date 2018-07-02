@@ -4995,3 +4995,24 @@ body {
     width: 100% !important;
   }
 }
+.cid-qWErjFcIY7 {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qWErjFcIY7 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qWErkvWJzh {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qWErkvWJzh .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qWErkvWJzh .video-block {
+    width: 100% !important;
+  }
+}
